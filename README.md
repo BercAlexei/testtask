@@ -86,11 +86,11 @@
 				count: 20;
 			};
 		},
-    computed: {
-      newCount() {
-        return this.count - 10;
-      }
-    }
+		computed: {
+			newCount() {
+				return this.count - 10;
+			}
+		}
 	};
 	</script>  
 ```  
